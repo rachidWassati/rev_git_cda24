@@ -1,1 +1,1 @@
-const calculArea = (rayon) => 3.14 * rayon ** 2
+const calculArea = (rayon) => Math.PI * rayon ** 2
