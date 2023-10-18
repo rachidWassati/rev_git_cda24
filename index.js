@@ -1,0 +1,1 @@
+const calculArea = (rayon) => 3.14 * rayon ** 2
